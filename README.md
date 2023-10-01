@@ -46,4 +46,4 @@ Jarvis is a Python-based basic desktop assistant designed to perform various tas
 
 ## Custom Commands
 
-You can add your own custom commands by editing the `custom_commands.py` file. Follow the existing format to add new functionalities to Jarvis.
+You can add your own custom commands by editing the file. Follow the existing format to add new functionalities to Jarvis.
